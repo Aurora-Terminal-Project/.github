@@ -7,6 +7,11 @@ provide a sleek customizable, and powerful terminal experience with a focus
 on interactivity, split panes, and compatibility with traditional shell
 environments like Bash and Zsh.
 
+While we get ready to start our work on Aurora, we do have a few other projects
+to release under our banner, like [Borealis](https://github.com/Aurora-Terminal-Project/Borealis),
+our very own NeoVim config designed as an open-source alternative to modern
+IDEs.
+
 ## Project Vision
 
 The Aurora Terminal is designed to bring vibrancy, flexibility, and enhanced
